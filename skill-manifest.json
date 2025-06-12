@@ -1,5 +1,5 @@
 {
-  "$schema": "https://github.com/maorka3/skills/blob/ff22fe0b3f0ae83aba46202dfce6c9c4d799577d/skill-manifest.json",
+  "$schema": "https://schemas.botframework.com/schemas/skill-manifest/2.0/skill-manifest.json",
   "name": "NewCustomerRegistrationSkill",
   "version": "1.0",
   "description": "Handles customer registration process",
